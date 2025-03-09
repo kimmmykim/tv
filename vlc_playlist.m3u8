@@ -769,7 +769,7 @@ https://xyzdddd.videohls.ru/lb/premium37/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 https://xyzdddd.videohls.ru/lb/premium38/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySPPL(src01).uk" tvg-name="Sky sports Premier League" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-uk.png?raw=true" group-title="SPORTS (DADDY LIVE)" ,Sky sports Premier League
+#EXTINF:-1 tvg-id="SkySPPL(src01).uk" tvg-name="Sky Sports Premier League" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-uk.png?raw=true" group-title="SPORTS (DADDY LIVE)" ,Sky sports Premier League
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/c303e484-7208-4695-a34e-c962db644a86.m3u8
