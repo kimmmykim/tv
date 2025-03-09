@@ -99,6 +99,21 @@ http://mains.services/live/1129267516/7954244520/dcbf4727-2916-4d0f-8ccf-b47256f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/1f97d298-42f6-4dbc-b9f9-8897be263f47.m3u8
 
+#EXTINF:-1 tvg-id="MoreMax.us" tvg-name="Cinemax MoreMax" tvg-logo="http://onlytimewilltell.xyz:2086/images/2841338cc3304c2dd10899467ad3884d.png" group-title="USA (DADDY LIVE)" ,Cinemax MoreMax
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/8d7be64e-5196-4865-878d-67d79325c3b2.m3u8
+
+#EXTINF:-1 tvg-id="MovieMax.us" tvg-name="Cinemax MovieMax" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59963_h15_ab.png" group-title="USA (DADDY LIVE)" ,Cinemax MovieMax
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/c1f192fb-e16c-4139-88f3-ad8f21d4ce66.m3u8
+
+#EXTINF:-1 tvg-id="OuterMax.us" tvg-name="Cinemax OuterMax" tvg-logo="http://onlytimewilltell.xyz:2086/images/677b151adc5948e887a71bd7420c798a.png" group-title="USA (DADDY LIVE)" ,Cinemax OuterMax
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/093f62bc-0d42-47cd-a5dd-2adbcc33ef52.m3u8
+
 #EXTINF:-1 tvg-id="CleoTV.us" tvg-name="Cleo TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true" group-title="USA (DADDY LIVE)" ,Cleo TV
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
@@ -264,260 +279,230 @@ http://mains.services/live/1129267516/7954244520/b81d3018-d2f6-45ce-aa7b-764c527
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/9072476d-c3eb-4a2f-a2e6-c7a4004b8759.m3u8
 
-#EXTINF:-1 tvg-id="IONTelevision.us" tvg-name="ION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/ion-television-us.png" group-title="USA (DADDY LIVE)" ,ION
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium325/index.m3u8
-
 #EXTINF:-1 tvg-id="IFC.us" tvg-name="IFC TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/ifc-us.png" group-title="USA (DADDY LIVE)" ,IFC TV
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium656/index.m3u8
+http://mains.services/live/1129267516/7954244520/7ea26afd-4c0b-4d3e-8df7-462b6aa73395.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png" group-title="USA (DADDY LIVE)" ,Lifetime Network
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium326/index.m3u8
+http://mains.services/live/1129267516/7954244520/fe76ab5f-3b2d-42c8-9032-ff7d87d27339.m3u8
 
 #EXTINF:-1 tvg-id="LMN.us" tvg-name="Lifetime Movies Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LMN_logo_2016.svg/1200px-LMN_logo_2016.svg.png" group-title="USA (DADDY LIVE)" ,Lifetime Movies Network
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium389/index.m3u8
+http://mains.services/live/1129267516/7954244520/1286f88b-d5fd-47ba-87c8-9128d654b595.m3u8
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-alt-us.png" group-title="USA (DADDY LIVE)" ,MSNBC
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium327/index.m3u8
+http://mains.services/live/1129267516/7954244520/d3e1a9c4-cda4-41f6-8875-3b07c917990b.m3u8
 
 #EXTINF:-1 tvg-id="MagnoliaNetwork.us" tvg-name="Magnolia Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/magnolia-network-us.png" group-title="USA (DADDY LIVE)" ,Magnolia Network
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium299/index.m3u8
+http://mains.services/live/1129267516/7954244520/1845431e-9324-4381-a3bf-5c004bbfec6f.m3u8
+
+#EXTINF:-1 tvg-id="MGM+.us" tvg-name="MGM+" tvg-logo="http://onlytimewilltell.xyz:2086/images/a325c8f97037e645ade6159bcd253213.png" group-title="USA (DADDY LIVE)" ,MGM+
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/13eff9f6-5b82-47e4-8ea7-52be1329f8e6.m3u8
+
+#EXTINF:-1 tvg-id="MGM+.us" tvg-name="MGM+DriveIn.us" tvg-logo="http://onlytimewilltell.xyz:2086/images/8ea0327e1f692a38875b4a46ba526503.png" group-title="USA (DADDY LIVE)" ,MGM+ Drive-In
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/12e4c88d-ab28-49e0-98c1-e8d9f4a2e4da.m3u8
 
 #EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-us.png" group-title="USA (DADDY LIVE)" ,MTV
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium371/index.m3u8
+http://mains.services/live/1129267516/7954244520/577df8b2-baf7-49f7-86e7-56f7ba26bcb3.m3u8
 
 #EXTINF:-1 tvg-id="MAVTVMotorsportsNetwork.us" tvg-name="MAVTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowwKlIECbPIzGyK6WcOyg7FRXPP_7ips1MhqsUEk6&s" group-title="USA (DADDY LIVE)" ,MAVTV
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 https://xyzdddd.videohls.ru/lb/premium646/index.m3u8
 
-#EXTINF:-1 tvg-id="WWORTVChannel9(LocalNewYork).us" tvg-name="MY9TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/WWOR_NewJersey.svg/640px-WWOR_NewJersey.svg.png" group-title="USA (DADDY LIVE)" ,MY9TV
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium654/index.m3u8
-
 #EXTINF:-1 tvg-id="MOTORTREND.us" tvg-name="Motor Trend" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/motor-trend-us.png" group-title="USA (DADDY LIVE)" ,Motor Trend
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium661/index.m3u8
+http://mains.services/live/1129267516/7954244520/d9bc0b33-1e95-4950-82db-25fd2ce12da9.m3u8
 
 #EXTINF:-1 tvg-id="MeTVNetwork.us" tvg-name="METV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/me-tv-us.png" group-title="USA (DADDY LIVE)" ,METV
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium662/index.m3u8
-
-#EXTINF:-1 tvg-id="WNBC.us" tvg-name="NBC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png" group-title="USA (DADDY LIVE)" ,NBC
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium53/index.m3u8
-
-#EXTINF:-1 tvg-id="WNBC.us" tvg-name="NBCNY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/2077px-NBC_logo.svg.png" group-title="USA (DADDY LIVE)" ,NBCNY
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium769/index.m3u8
+http://mains.services/live/1129267516/7954244520/a22076b0-fd82-4f8a-a406-e8d43dc18993.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic (NGC)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/national-geographic-us.png" group-title="USA (DADDY LIVE)" ,National Geographic (NGC)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium328/index.m3u8
+http://mains.services/live/1129267516/7954244520/d9851e58-c8e2-4b85-8fc1-26928dd61bbe.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.us" tvg-name="NICK JR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="USA (DADDY LIVE)" ,NICK JR
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium329/index.m3u8
+http://mains.services/live/1129267516/7954244520/3b02524b-c089-4bea-a853-caf981fba02f.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="NICK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-us.png" group-title="USA (DADDY LIVE)" ,NICK
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium330/index.m3u8
+http://mains.services/live/1129267516/7954244520/87c5bc26-8724-439a-a84f-7ccf15fcb994.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="USA (DADDY LIVE)" ,Nicktoons
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium649/index.m3u8
-
-#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="Newsmax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/newsmax-tv-us.png" group-title="USA (DADDY LIVE)" ,Newsmax
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium613/index.m3u8
+http://mains.services/live/1129267516/7954244520/434b084b-6f6f-482c-819f-a1790859f0ff.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nat-geo-wild-us.png" group-title="USA (DADDY LIVE)" ,Nat Geo Wild
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium745/index.m3u8
-
-#EXTINF:-1 tvg-id="OprahWinfreyNetwork.us" tvg-name="Oprah Winfrey Network (OWN)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/oprah-winfrey-network-us.png" group-title="USA (DADDY LIVE)" ,Oprah Winfrey Network (OWN)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium331/index.m3u8
-
-#EXTINF:-1 tvg-id="OxygenTrueCrime.us" tvg-name="Oxygen True Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/oxygen-true-crime-us.png" group-title="USA (DADDY LIVE)" ,Oxygen True Crime
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium332/index.m3u8
+http://mains.services/live/1129267516/7954244520/177e916f-c9a6-44da-8eb8-17db6f57e7ed.m3u8
 
 #EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" group-title="USA (DADDY LIVE)" ,Paramount Network
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium334/index.m3u8
+http://mains.services/live/1129267516/7954244520/f15e644c-7a78-46c0-ae44-3f2c77e9187c.m3u8
 
 #EXTINF:-1 tvg-id="POP.us" tvg-name="POP TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/pop-us.png" group-title="USA (DADDY LIVE)" ,POP TV
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium653/index.m3u8
+http://mains.services/live/1129267516/7954244520/482ee8ca-ba5f-4214-9848-07fa66cda456.m3u8
 
 #EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="Reelz Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/reelz-us.png" group-title="USA (DADDY LIVE)" ,Reelz Channel
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium293/index.m3u8
-
-#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="SEC Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sec-network-us.png" group-title="USA (DADDY LIVE)" ,SEC Network
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium385/index.m3u8
+http://mains.services/live/1129267516/7954244520/6c302720-d113-4d58-bb48-e133a74cd7cc.m3u8
 
 #EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Science Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/discovery-science-us.png" group-title="USA (DADDY LIVE)" ,Science Channel
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium294/index.m3u8
+http://mains.services/live/1129267516/7954244520/e0f98869-485c-413a-9c6b-923da182c7ff.m3u8
 
 #EXTINF:-1 tvg-id="ParamountpluswithShowtime.us" tvg-name="Showtime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png" group-title="USA (DADDY LIVE)" ,Showtime
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium333/index.m3u8
+http://mains.services/live/1129267516/7954244520/f8544552-4193-4275-93df-838180f8b43f.m3u8
+
+#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="Showtime Next" tvg-logo="http://onlytimewilltell.xyz:2086/images/2a9798dd89d14bf6c9a973171e59a3a5.png" group-title="USA (DADDY LIVE)" ,Showtime Next
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/68cac6b8-6ea0-4f10-804a-6e5e7916cf7d.m3u8
+
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/de534e374fafe9c5555aa9f3ccc6b7e4.PNG" group-title="USA (DADDY LIVE)" ,Showtime 2
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/1904fbcf-5f07-4689-ab21-e4d339de6ab9.m3u8
+
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="Showtime Extreme" tvg-logo="http://onlytimewilltell.xyz:2086/images/601f0f0bd37ce3760bc59784cb1f7cc7.png" group-title="USA (DADDY LIVE)" ,Showtime Extreme
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/862261ae-6b38-4bab-8075-01cf87c4e0d7.m3u8
+
+#EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-name="Showtime Showcase" tvg-logo="http://onlytimewilltell.xyz:2086/images/4b73de26caab60ddc37b2aa48abf0afb.png" group-title="USA (DADDY LIVE)" ,Showtime Showcase
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/4d9d7767-5492-43b2-a4c3-7e673332464a.
+
+#EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-name="Showtime Women" tvg-logo="http://onlytimewilltell.xyz:2086/images/e60b3f464266a82e4ed506d94ce11be1.png" group-title="USA (DADDY LIVE)" ,Showtime Women
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/8086546f-e5d0-46d9-a817-89c59826126b.m3u8
 
 #EXTINF:-1 tvg-id="SHOxBET.us" tvg-name="SHOxBET" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sho-bet-us.png?raw=true" group-title="USA (DADDY LIVE)" ,SHOxBET
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium685/index.m3u8
+http://mains.services/live/1129267516/7954244520/07338aaf-d858-49c8-b88c-583c8eff6aa8.m3u8
 
 #EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png" group-title="USA (DADDY LIVE)" ,Starz
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium335/index.m3u8
+http://mains.services/live/1129267516/7954244520/42191289-dbbc-42f3-9eb3-4f004bb08492.m3u8
 
 #EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-us.png" group-title="USA (DADDY LIVE)" ,SYFY
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium373/index.m3u8
+http://mains.services/live/1129267516/7954244520/987481ef-fbd8-47d5-90b4-b56f2f2e4e0f.m3u8
 
 #EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="Sundance TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sundance-tv-us.png" group-title="USA (DADDY LIVE)" ,Sundance TV
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium658/index.m3u8
-
-#EXTINF:-1 tvg-id="TelemundoTelevisionNetwork(Spanish).us" tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png" group-title="USA (DADDY LIVE)" ,Telemundo
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium131/index.m3u8
-
-#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png" group-title="USA (DADDY LIVE)" ,TBS
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium336/index.m3u8
+http://mains.services/live/1129267516/7954244520/505176c7-1a23-4e93-bd2f-bcd9abe35a86.m3u8
 
 #EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tlc-us.png" group-title="USA (DADDY LIVE)" ,TLC
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium337/index.m3u8
+http://mains.services/live/1129267516/7954244520/f7adeb2d-3425-41e1-9709-10e9ed9c6d22.m3u8
 
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" group-title="USA (DADDY LIVE)" ,TNT
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium338/index.m3u8
+http://mains.services/live/1129267516/7954244520/830ff393-8c58-4a08-aa79-93a830c2c583.m3u8
 
 #EXTINF:-1 tvg-id="TheTravelChannel.us" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/travel-channel-us.png" group-title="USA (DADDY LIVE)" ,Travel Channel
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium340/index.m3u8
+http://mains.services/live/1129267516/7954244520/4092e085-284d-4bfc-adc1-21a41069f202.m3u8
 
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="TruTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/tru-tv-us.png" group-title="USA (DADDY LIVE)" ,TruTV
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium341/index.m3u8
+http://mains.services/live/1129267516/7954244520/26d3694a-ad6c-4e98-89c1-3a10b7658e82.m3u8
 
 #EXTINF:-1 tvg-id="TVLand.us" tvg-name="TVLAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1200px-Travel_Channel_-_Logo.svg.png" group-title="USA (DADDY LIVE)" ,TVLAND
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium342/index.m3u8
+http://mains.services/live/1129267516/7954244520/7e17f68a-a4be-4b84-8fb1-302054ba0991.m3u8
 
 #EXTINF:-1 tvg-id="TurnerClassicMovies.us" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tcm-us.png" group-title="USA (DADDY LIVE)" ,TCM
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium644/index.m3u8
+http://mains.services/live/1129267516/7954244520/03947b30-ac6a-4e78-87b6-067518c19cc0.m3u8
 
 #EXTINF:-1 tvg-id="TheMovieChannel.us" tvg-name="TMC Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1200px-TMC_logo.svg.png" group-title="USA (DADDY LIVE)" ,TMC Channel
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium698/index.m3u8
+http://mains.services/live/1129267516/7954244520/6aa5d39a-7c5c-44ac-8f01-76d48bccc25f.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="The Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="USA (DADDY LIVE)" ,The Food Network
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium384/index.m3u8
+http://mains.services/live/1129267516/7954244520/dfef66d4-7fca-41c6-bede-e15c58844ab5.m3u8
 
-#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="The Weather Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="USA (DADDY LIVE)" ,The Weather Channel
+#EXTIN#EXTINF:-1 tvg-id="TeenNick.us" tvg-name="TeenNick" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png" group-title="USA (DADDY LIVE)" ,TeenNick
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium394/index.m3u8
-
-#EXTINF:-1 tvg-id="TeenNick.us" tvg-name="TeenNick" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png" group-title="USA (DADDY LIVE)" ,TeenNick
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium650/index.m3u8
+http://mains.services/live/1129267516/7954244520/80400881-8265-4a24-999b-4aeced014280.m3u8
 
 #EXTINF:-1 tvg-id="TVONE.us" tvg-name="TV ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV_One.svg/2560px-TV_One.svg.png" group-title="USA (DADDY LIVE)" ,TV ONE
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium660/index.m3u8
+http://mains.services/live/1129267516/7954244520/7511c3b1-e1f6-4777-9f04-0a5812f0aebb.m3u8
 
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/usa-us.png" group-title="USA (DADDY LIVE)" ,USA Network
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium343/index.m3u8
+http://mains.services/live/1129267516/7954244520/ef56e78a-1209-4dc4-b752-5b800378ef0b.m3u8
 
 #EXTINF:-1 tvg-id="UniversalKids.us" tvg-name="Universal Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universal-kids-us.png" group-title="USA (DADDY LIVE)" ,Universal Kids
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium668/index.m3u8
-
-#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univision" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/univision-us.png" group-title="USA (DADDY LIVE)" ,Univision
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium132/index.m3u8
-
-#EXTINF:-1 tvg-id="UniMas(Spanish).us" tvg-name="Unimas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/unimas-us.png" group-title="USA (DADDY LIVE)" ,Unimas
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium133/index.m3u8
+http://mains.services/live/1129267516/7954244520/a5b4be4c-7197-4f57-9a65-69697fed0c22.m3u8
 
 #EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/vh1-us.png" group-title="USA (DADDY LIVE)" ,VH1
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium344/index.m3u8
+http://mains.services/live/1129267516/7954244520/bbeaf043-943b-41fc-bf66-360949fbd216.m3u8
 
 #EXTINF:-1 tvg-id="Vice.us" tvg-name="VICE TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vice-us.png?raw=true" group-title="USA (DADDY LIVE)" ,VICE TV
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium659/index.m3u8
+http://mains.services/live/1129267516/7954244520/41d59931-6e4a-4fee-94c3-4e8573bc47af.m3u8
 
 #EXTINF:-1 tvg-id="WEtv.us" tvg-name="WETV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/we-tv-us.png" group-title="USA (DADDY LIVE)" ,WETV
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium655/index.m3u8
+http://mains.services/live/1129267516/7954244520/faabce9a-2164-4033-9be9-cad14552e7d4.m3u8
 
 #EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/acc-network-us.png" group-title="SPORTS (DADDY LIVE)" ,ACC Network
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1052,12 +1037,22 @@ https://xyzdddd.videohls.ru/lb/premium353/index.m3u8
 #EXTINF:-1 tvg-id="MTV(src01).uk" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mtv-uk.png" group-title="UK (DADDY LIVE)" ,MTV
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium367/index.m3u8
+http://mains.services/live/1129267516/7954244520/1d50e7a0-7882-431e-87d9-e8e09f907b09.m3u8
 
-#EXTINF:-1 tvg-id="MUTV(src01).uk" tvg-name="MUTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mutv-uk.png" group-title="UK (DADDY LIVE)" ,MUTV
+#EXTINF:-1 tvg-id="MTV90s.uk" tvg-name="MTV Base" tvg-logo="http://onlytimewilltell.xyz:2086/images/152d1df64fab554ffb0c3d62e5e0f8af.png" group-title="UK (DADDY LIVE)" ,MTV Base
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium377/index.m3u8
+http://mains.services/live/1129267516/7954244520/2572d250-c1d9-41b3-9780-264d3b687202.m3u8
+
+#EXTINF:-1 tvg-id="MTV80s.uk" tvg-name="MTV Classic" tvg-logo="http://onlytimewilltell.xyz:2086/images/4ae9f7c0528a6e7d212830bec502af5a.png" group-title="UK (DADDY LIVE)" ,MTV Classic
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/a63a5a70-4b00-48fa-9c0d-08b7d391367f.m3u8
+
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="MTV HITS" tvg-logo="http://onlytimewilltell.xyz:2086/images/92d00d35a3f44f7eee03d2643248b143.png" group-title="UK (DADDY LIVE)" ,MTV Hits
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/11bbbcac-1171-4ff8-bd4e-c34812bb397c.m3u8
 
 #EXTINF:-1 tvg-id="RTEOne(src01).ie" tvg-name="RTE 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/RTE_One_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20210310105314" group-title="UK (DADDY LIVE)" ,RTE 1
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
