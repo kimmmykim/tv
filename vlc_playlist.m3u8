@@ -1236,7 +1236,7 @@ https://xyzdddd.videohls.ru/lb/premium413/index.m3u8
 
 #EXTINF:-1 tvg-id="50781" tvg-name="SuperSport Premier league" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-premier-league-za.png?raw=true" group-title="SPORTS MISC (DADDY LIVE)" ,SuperSport Premier league
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=VLC/3.0.0 LiBVLC/3.0.0
+#EXTVLCOPT:http-user-agent=ozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 
 #EXTINF:-1 tvg-id="8327" tvg-name="SuperSport LaLiga" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-laliga-za.png?raw=true" group-title="SPORTS MISC (DADDY LIVE)" ,SuperSport LaLiga
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
