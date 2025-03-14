@@ -923,3 +923,48 @@ http://mains.services/live/1129267516/7954244520/3b4e154f-22af-4726-95b6-a873803
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/c9a46969-7c9f-4df4-b205-97c9742c7210.m3u8
+
+#EXTINF:-2 tvg-id="" tvg-name=" STVP_CA: STINGRAY CLASSIC ROCK" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png" group-title="SAMSUNG TV PLUS CA", STVP_CA: STINGRAY CLASSIC ROCK
+http://mains.services/live/1129267516/7954244520/d20b0b96-29f1-4ae4-a2d1-dd9defbe53ce.m3u8
+#EXTINF:-2 tvg-id="" tvg-name=" STVP_CA: STINGRAY CLASSICA" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png" group-title="SAMSUNG TV PLUS CA", STVP_CA: STINGRAY CLASSICA
+http://mains.services/live/1129267516/7954244520/4402b97f-22e8-4a3d-901c-6a41acce3501.m3u8
+#EXTINF:-2 tvg-id="" tvg-name=" STVP_CA: STINGRAY DJAZZ" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png" group-title="SAMSUNG TV PLUS CA", STVP_CA: STINGRAY DJAZZ
+http://mains.services/live/1129267516/7954244520/3145ad07-032f-49cc-bae9-70c9babfd07b.m3u8
+#EXTINF:-2 tvg-id="StingrayEasyListening.ca" tvg-name=" STVP_CA: STINGRAY EASY LISTENING" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png" group-title="SAMSUNG TV PLUS CA", STVP_CA: STINGRAY EASY LISTENING
+http://mains.services/live/1129267516/7954244520/1052b707-84dc-4525-acf4-6dc721b5ac84.m3u8
+#EXTINF:-2 tvg-id="" tvg-name=" STVP_CA: STINGRAY FLASHBACK '70S" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png" group-title="SAMSUNG TV PLUS CA", STVP_CA: STINGRAY FLASHBACK '70S
+http://mains.services/live/1129267516/7954244520/a8bc7ff8-364c-4309-a1f5-621f155b0cce.m3u8
+#EXTINF:-2 tvg-id="" tvg-name=" STVP_CA: STINGRAY FRANCO COUNTRY" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png" group-title="SAMSUNG TV PLUS CA", STVP_CA: STINGRAY FRANCO COUNTRY
+http://mains.services/live/1129267516/7954244520/f136e020-4771-4693-b6b5-28919c15359f.m3u8
+#EXTINF:-2 tvg-id="" tvg-name=" STVP_CA: STINGRAY FRANCO POP" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png" group-title="SAMSUNG TV PLUS CA", STVP_CA: STINGRAY FRANCO POP
+http://mains.services/live/1129267516/7954244520/b1ffb695-d7cc-468a-9cae-126ab7dd803d.m3u8
+#EXTINF:-2 tvg-id="" tvg-name=" STVP_CA: STINGRAY FRANCO RETRO" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png" group-title="SAMSUNG TV PLUS CA", STVP_CA: STINGRAY FRANCO RETRO
+http://mains.services/live/1129267516/7954244520/3bf2387b-f70e-4b71-a612-af8cce67c2e9.m3u8
+#EXTINF:-2 tvg-id="StingrayGreatestHits.us" tvg-name=" STVP_CA: STINGRAY GREATEST HITS" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png" group-title="SAMSUNG TV PLUS CA", STVP_CA: STINGRAY GREATEST HITS
+http://mains.services/live/1129267516/7954244520/022a2f48-6b73-46e0-93d8-06f0f62c3517.m3u8
+#EXTINF:-2 tvg-id="" tvg-name=" STVP_CA: STINGRAY HIP HOP" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png" group-title="SAMSUNG TV PLUS CA", STVP_CA: STINGRAY HIP HOP
+http://mains.services/live/1129267516/7954244520/acffdefe-7208-4f1b-a476-d29361f5d05b.m3u8
+#EXTINF:-2 tvg-id="" tvg-name=" STVP_CA: STINGRAY HOLIDAYSCAPES" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png" group-title="SAMSUNG TV PLUS CA", STVP_CA: STINGRAY HOLIDAYSCAPES
+http://mains.services/live/1129267516/7954244520/50b6eb86-de53-41c6-908e-cc8e89e73d50.m3u8
+#EXTINF:-2 tvg-id="" tvg-name=" STVP_CA: STINGRAY HOT COUNTRY" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png" group-title="SAMSUNG TV PLUS CA", STVP_CA: STINGRAY HOT COUNTRY
+http://mains.services/live/1129267516/7954244520/f1a7018e-8569-4551-a6a3-079c7197a1b1.m3u8
+#EXTINF:-2 tvg-id="" tvg-name=" STVP_CA: STINGRAY LE PALMARES" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png" group-title="SAMSUNG TV PLUS CA", STVP_CA: STINGRAY LE PALMARES
+http://mains.services/live/1129267516/7954244520/7c9aa3af-24e8-41c8-86d9-f575e5937bd2.m3u8
+#EXTINF:-2 tvg-id="" tvg-name=" STVP_CA: STINGRAY NATURESCAPE" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png" group-title="SAMSUNG TV PLUS CA", STVP_CA: STINGRAY NATURESCAPE
+http://mains.services/live/1129267516/7954244520/dfac685f-730e-46a0-a148-862fa19f11d0.m3u8
+#EXTINF:-2 tvg-id="" tvg-name=" STVP_CA: STINGRAY NOSTALGIE" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png" group-title="SAMSUNG TV PLUS CA", STVP_CA: STINGRAY NOSTALGIE
+http://mains.services/live/1129267516/7954244520/72ea4960-af3a-4899-ad4e-47be8ba419a1.m3u8
+#EXTINF:-2 tvg-id="" tvg-name=" STVP_CA: STINGRAY NOTHIN' BUT 90S" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png" group-title="SAMSUNG TV PLUS CA", STVP_CA: STINGRAY NOTHIN' BUT 90S
+http://mains.services/live/1129267516/7954244520/97477c3a-2efd-4c8e-a3d0-b7f5963a9f7e.m3u8
+#EXTINF:-2 tvg-id="" tvg-name=" STVP_CA: STINGRAY REMEMBER THE '80S" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png" group-title="SAMSUNG TV PLUS CA", STVP_CA: STINGRAY REMEMBER THE '80S
+http://mains.services/live/1129267516/7954244520/666cd868-ae37-4e64-b31d-3f8fc8b020dd.m3u8
+#EXTINF:-2 tvg-id="" tvg-name=" STVP_CA: STINGRAY ROMANCE LATINO" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png" group-title="SAMSUNG TV PLUS CA", STVP_CA: STINGRAY ROMANCE LATINO
+http://mains.services/live/1129267516/7954244520/8498e657-0659-4cb1-a738-d9966fd52a3e.m3u8
+#EXTINF:-2 tvg-id="" tvg-name=" STVP_CA: STINGRAY SMOOTH JAZZ" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png" group-title="SAMSUNG TV PLUS CA", STVP_CA: STINGRAY SMOOTH JAZZ
+http://mains.services/live/1129267516/7954244520/b1081674-b101-48a0-ae0b-e30cfe0a2fd0.m3u8
+#EXTINF:-2 tvg-id="" tvg-name=" STVP_CA: STINGRAY SOUVENIRS" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png" group-title="SAMSUNG TV PLUS CA", STVP_CA: STINGRAY SOUVENIRS
+http://mains.services/live/1129267516/7954244520/ad7236d2-1b1d-4c59-9648-50284053922e.m3u8
+#EXTINF:-2 tvg-id="" tvg-name=" STVP_CA: STINGRAY SPA" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png" group-title="SAMSUNG TV PLUS CA", STVP_CA: STINGRAY SPA
+http://mains.services/live/1129267516/7954244520/dddd52ae-54b7-414f-94fa-11b2a376dd67.m3u8
+#EXTINF:-2 tvg-id="" tvg-name=" STVP_CA: STINGRAY TODAY'S K-POP" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png" group-title="SAMSUNG TV PLUS CA", STVP_CA: STINGRAY TODAY'S K-POP
+http://mains.services/live/1129267516/7954244520/3272bc6c-b98c-4b36-8b4c-ac8098a0a806.m3u8
