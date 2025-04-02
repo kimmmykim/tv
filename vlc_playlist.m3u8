@@ -355,11 +355,6 @@ http://mains.services/live/1129267516/7954244520/7c8a21ba-0a83-4c00-8666-b7012aa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/e96b870b-ee23-477e-8c8b-a6a1c873d2a4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CAMS : NASA ISS LIVE STREAM - EARTH FROM SPACE | ISS LIVE FEED" tvg-logo="http://onlytimewilltell.xyz:2086/images/4e4f5df34ac55cec0858f09abc76f823.png" group-title="LIVE CAMS",CAMS : NASA ISS LIVE STREAM - EARTH FROM SPACE | ISS LIVE FEED
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-http://mains.services/live/1129267516/7954244520/be68ff62-cea7-4e5c-b05b-6c25d2281393.m3u8
-
 #EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic (NGC)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/national-geographic-us.png" group-title="USA" ,National Geographic (NGC)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
