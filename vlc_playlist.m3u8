@@ -915,21 +915,6 @@ http://mains.services/live/1129267516/7954244520/3b4e154f-22af-4726-95b6-a873803
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/c9a46969-7c9f-4df4-b205-97c9742c7210.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AfricaMagicFamily(src04).za" tvg-logo="http://onlytimewilltell.xyz:2086/images/f5cd262901883dff68d06b215fb0f28e.png" group-title="AFRICA",Africa Magic Family
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-http://mains.services/live/1129267516/7954244520/32a62495-16fa-43be-8f79-e20920dfa6c0.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="AFRICA : AFRICA MAGIC URBAN" tvg-logo="http://onlytimewilltell.xyz:2086/images/f5cd262901883dff68d06b215fb0f28e.png" group-title="AFRICA",Africa Magic Urban
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-http://mains.services/live/1129267516/7954244520/322e8a23-9b77-42cc-b522-47958264627b.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="AfricaMagicEpic(src04).za" tvg-logo="http://onlytimewilltell.xyz:2086/images/f5cd262901883dff68d06b215fb0f28e.png" group-title="AFRICA",Afrimagic Epic
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-http://mains.services/live/1129267516/7954244520/883fe583-a9d1-4460-8431-58b1e4f10ed0.ts
-
 #EXTINF:-1 tvg-id="tvg-id-channel1000" tvg-name="24/7: 007 James Bond Movies" tvg-logo="https://artworks.thetvdb.com/banners/movies/186469/posters/gChsKD2ami2juo8n0oDjAlx9IUv.jpg" group-title="24/7 Channels",007 James Bond Movies
 http://mains.services/live/1129267516/7954244520/0584b422-745f-4aa9-9513-035a5f0c7f30.m3u8
 
