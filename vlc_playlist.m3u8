@@ -570,10 +570,15 @@ http://mains.services/live/1129267516/7954244520/58c0e1ee-ae2e-4694-bb66-3e3eb6c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/c303e484-7208-4695-a34e-c962db644a86.m3u8
 
-#EXTINF:-1 tvg-id="SkysportsF1(src01).uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS" ,Sky Sports F1
+#EXTINF:-1 tvg-id="SkysportsF1(src01).uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS" ,Sky Sports F1 FHD
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/3e89b7df-4554-42e7-bd89-8809fa966127.m3u8
+
+#EXTINF:-1 tvg-id="SkysportsF1(src01).uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS" ,Sky Sports F1 HD
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/35a41a8a-c635-4462-b25f-e578b4b15de7.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsNews(src01).uk" tvg-name="Sky Sports News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-uk.png" group-title="SPORTS" ,Sky Sports News
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
