@@ -930,11 +930,6 @@ http://mains.services/live/1129267516/7954244520/3b4e154f-22af-4726-95b6-a873803
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/c9a46969-7c9f-4df4-b205-97c9742c7210.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" PLUTO_US: FORMULA 1 CHANNEL" tvg-logo="http://icons.tw:8080/images/3df2189c2096b12b98f715fcbbc92c47.png" group-title="PLUTO TV USA", PLUTO_US: FORMULA 1 CHANNEL
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-http://mains.services/live/1129267516/7954244520/cbd32883-4461-4371-80a0-e056c4964284.m3u8
-
 #EXTINF:-1 tvg-id="tvg-id-channel1000" tvg-name="24/7: 007 James Bond Movies" tvg-logo="https://artworks.thetvdb.com/banners/movies/186469/posters/gChsKD2ami2juo8n0oDjAlx9IUv.jpg" group-title="24/7 Channels",007 James Bond Movies
 http://mains.services/live/1129267516/7954244520/0584b422-745f-4aa9-9513-035a5f0c7f30.m3u8
 
