@@ -615,12 +615,12 @@ http://mains.services/live/1129267516/7954244520/3487f1f4-771e-4c8c-aa7c-8094580
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/26a00017-1496-468f-8693-93df9e1b846f.m3u8
 
-#EXTINF:-1 tvg-id="Viaplay1(src01).uk" tvg-name="Viaplay Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/viaplay-sports-1-uk.png" group-title="SPORTS" ,Viaplay Sports 1
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="Premier Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/premier-sports-1-uk.png" group-title="SPORTS" ,Premier Sports 1
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/a2de5c34-7664-4983-996d-aef9744e8ea5.m3u8
 
-#EXTINF:-1 tvg-id="Viaplay2(src01).uk" tvg-name="Viaplay Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/viaplay-sports-2-uk.png" group-title="SPORTS" ,Viaplay Sports 2
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="Premier Sports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/premier-sports-2-uk.png" group-title="SPORTS" ,Premier Sports 2
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/f5453f84-b9c5-4541-aada-319183ca88c8.m3u8
