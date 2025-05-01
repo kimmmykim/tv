@@ -949,6 +949,9 @@ http://mains.services/live/1129267516/7954244520/7c70be97-2393-4694-b44b-7d6c869
 #EXTINF:-1 tvg-id="tvg-id-channel106" tvg-name="24/7: Blackadder" tvg-logo="http://onlytimewilltell.xyz:2086/images/1732ec19cf83c61f321576079ac0259d.jpg" group-title="24/7 Channels",24/7: Blackadder
 http://mains.services/live/1129267516/7954244520/e37ce802-55b8-487b-8274-d66c7e46a551.m3u8
 
+#EXTINF:-1 tvg-id="tvg-id-channel114" tvg-name="24/7: Bobs Burgers" tvg-logo="http://onlytimewilltell.xyz:2086/images/9fe60e09e57a843ad91ea9ab0c011365.jpg" group-title="24/7 CHANNELS",24/7: Bobs Burgers
+http://mains.services/live/1129267516/7954244520/4406119b-cdc5-42e1-a025-2e88faacf3bb.m3u8
+
 #EXTINF:-1 tvg-id="tvg-id-channel125" tvg-name="24/7: Breaking Bad" tvg-logo="http://onlytimewilltell.xyz:2086/images/59a26ea7cd6983a48c215114b418610f.jpg" group-title="24/7 Channels",24/7: Breaking Bad
 http://mains.services/live/1129267516/7954244520/510f869c-fb05-4b06-bcb4-596c152c7d64.m3u8
 
