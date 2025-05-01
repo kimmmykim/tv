@@ -625,7 +625,7 @@ http://mains.services/live/1129267516/7954244520/a2de5c34-7664-4983-996d-aef9744
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/f5453f84-b9c5-4541-aada-319183ca88c8.m3u8
 
-#EXTINF:-1 tvg-id="WWENetwork(English).ca" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/wwe-us.png" group-title="SPORTS" ,WWE Network
+#EXTINF:-1 tvg-id="WWECHANNEL(src04).za" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/wwe-us.png" group-title="SPORTS" ,WWE Network
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/2d28d271-852f-4f02-b481-62b2834dc4f7.m3u8
