@@ -455,22 +455,22 @@ http://mains.services/live/1129267516/7954244520/c21a9e38-299a-4c45-8bad-4663081
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/62c90b67-7be5-4f08-b95f-1de89cc4424c.m3u8
 
-#EXTINF:-1 tvg-id="Starz.us" tvg-name="STARZ" tvg-logo="http://onlytimewilltell.xyz:2086/images/4ff9c0d60931b273c49e45408b436c4f.png" group-title="USA",STARZ
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="STARZ" tvg-logo="https://raw.githubusercontent.com/kimmmykim/tv/refs/heads/main/STARZ-2022.png" group-title="USA",STARZ
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/1adb930b-83cb-4fa3-a80a-1a88fea83c67.m3u8
 
-#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="STARZ Cinema" tvg-logo="http://onlytimewilltell.xyz:2086/images/2e0cb1ac6144b47bee02d0da2067df16.png" group-title="USA",STARZ Cinema
+#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="STARZ Cinema" tvg-logo="https://raw.githubusercontent.com/kimmmykim/tv/refs/heads/main/Starz_Cinema_2022.png" group-title="USA",STARZ Cinema
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/42191289-dbbc-42f3-9eb3-4f004bb08492.m3u8
 
-#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="STARZ Comedy" tvg-logo="http://onlytimewilltell.xyz:2086/images/8a337cd814de2026f1f53a3c5f99cd4c.png" group-title="USA",STARZ Comedy
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="STARZ Comedy" tvg-logo="https://raw.githubusercontent.com/kimmmykim/tv/refs/heads/main/Starz_Comedy_2022.png" group-title="USA",STARZ Comedy
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/7cf89067-af48-428c-bf29-f16e9eddf643.m3u8
 
-#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="STARZ Edge" tvg-logo="http://onlytimewilltell.xyz:2086/images/b42bdf78687cabe7ec0e4b9268eb1c07.png" group-title="USA",STARZ Edge
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="STARZ Edge" tvg-logo="https://raw.githubusercontent.com/kimmmykim/tv/refs/heads/main/Starz_Edge_2022.png" group-title="USA",STARZ Edge
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/9dad38ea-dd31-4733-99c3-7a268eb6088e.m3u8
@@ -480,32 +480,32 @@ http://mains.services/live/1129267516/7954244520/9dad38ea-dd31-4733-99c3-7a268eb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/11d3e629-f14b-4c07-9e41-4246b0f9903d.m3u8
 
-#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="STARZ Encore Action" tvg-logo="http://onlytimewilltell.xyz:2086/images/d7670105e6d8b0bd34c9e52fbbab3158.png" group-title="USA",STARZ Encore Action
+#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="STARZ Encore Action" tvg-logo="https://raw.githubusercontent.com/kimmmykim/tv/refs/heads/main/Starz_Encore_Action_2022.png" group-title="USA",STARZ Encore Action
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/307419a1-b3ad-4722-b10c-16a293ea73c5.m3u8
 
-#EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-name="STARZ Encore Black" tvg-logo="http://onlytimewilltell.xyz:2086/images/1b019ff2bc19428459897eea6cb56525.png" group-title="USA",STARZ Encore Black
+#EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-name="STARZ Encore Black" tvg-logo="https://raw.githubusercontent.com/kimmmykim/tv/refs/heads/main/Starz_Encore_Black_2022.png" group-title="USA",STARZ Encore Black
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/9aec5acb-06d7-4e83-ac73-c5159c752876.m3u8
 
-#EXTINF:-1 tvg-id="StarzEncoreClassic.us" tvg-name="STARZ Encore Clssic" tvg-logo="http://onlytimewilltell.xyz:2086/images/e539e7281ee1530c1c644776f0ed1671.png" group-title="USA",STARZ Encore Classic
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us" tvg-name="STARZ Encore Clssic" tvg-logo="https://raw.githubusercontent.com/kimmmykim/tv/refs/heads/main/Starz_Encore_Classic_2022.png" group-title="USA",STARZ Encore Classic
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/c44421b2-b673-4a37-a429-dd4b8cbbbbc2.m3u8
 
-#EXTINF:-1 tvg-id="StarzEncoreFamily.us" tvg-name="STARZ Encore Family" tvg-logo="http://onlytimewilltell.xyz:2086/images/9d22f000b3a31fcb98d8e4d54b4f7950.png" group-title="USA",STARZ Encore Family
+#EXTINF:-1 tvg-id="StarzEncoreFamily.us" tvg-name="STARZ Encore Family" tvg-logo="https://raw.githubusercontent.com/kimmmykim/tv/refs/heads/main/Starz_Encore_Family_2022.png" group-title="USA",STARZ Encore Family
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/95f6225a-a7ed-4c8d-b8ea-9dba945d8ff5.m3u8
 
-#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-name="STARZ Encore Suspense" tvg-logo="http://onlytimewilltell.xyz:2086/images/68a999c176ef9fd7efa2bd1ee0edd588.png" group-title="USA",STARZ Encore Suspense
+#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-name="STARZ Encore Suspense" tvg-logo="https://raw.githubusercontent.com/kimmmykim/tv/refs/heads/main/Starz_Encore_Suspense_2022.png" group-title="USA",STARZ Encore Suspense
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/cd7bb930-a0bc-4c95-8e2b-8d5faa8c31a1.m3u8
 
-#EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="STARZ In Black" tvg-logo="http://onlytimewilltell.xyz:2086/images/8d0397e1e84f782de1fdf4d8995d4b80.png" group-title="USA",STARZ In Black
+#EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="STARZ In Black" tvg-logo="https://raw.githubusercontent.com/kimmmykim/tv/refs/heads/main/Starz_In_Black_2022.png" group-title="USA",STARZ In Black
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/d6b4cffa-5691-49cc-9824-9930bd87f553.m3u8
