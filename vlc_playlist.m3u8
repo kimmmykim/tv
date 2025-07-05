@@ -18,17 +18,12 @@ http://mains.services/live/1129267516/7954244520/e82df5e7-3e42-4ec9-b5ab-7c682f4
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" group-title="USA" ,AMC
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-http://mains.services/live/1129267516/7954244520/7a4413b1-923e-4fb3-871c-3b453b2469d6.m3u8
+http://mains.services/live/1129267516/7954244520/bf3177e7-fafc-4c1c-9667-119973f7339f.m3u8
 
 #EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="AMC+" tvg-logo="http://onlytimewilltell.xyz:2086/images/04517081d1a0c875133940d7c846ad99.png" group-title="USA",AMC+
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/2873e033-1c28-4c6f-8345-06895b031711.m3u8
-
-#EXTINF:-1 tvg-id="StoriesbyAMC.us" tvg-name="AMC Presents" tvg-logo="http://onlytimewilltell.xyz:2086/images/3654b34017508a963ccce2426e91e4cd.png" group-title="USA",AMC Presents
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-http://mains.services/live/1129267516/7954244520/a181fa91-1761-4086-934f-259b62acfcbc.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="USA" ,Animal Planet
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -610,15 +605,10 @@ http://mains.services/live/1129267516/7954244520/93a91ced-a6dd-4367-86f8-60ccb8b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/e0e766c2-49a7-4ad4-8934-e35beb4fa6f9.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/505f347dd85fc2b612c01bfcbb7d83fb.png" group-title="SPORTS",FOX Sports 2
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-http://mains.services/live/1129267516/7954244520/4c538364-3af9-46bb-b778-e287295d39ee.m3u8
-
 #EXTINF:-1 tvg-id="FoxSports506(src04).au" tvg-name="FOX Sports 506" tvg-logo="https://raw.githubusercontent.com/kimmmykim/tv/refs/heads/main/FoxSports506_HD.png" group-title="SPORTS",FOX Sports 506
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-http://mains.services/live/1129267516/7954244520/889ded01-91cd-4a6f-b9f3-efec637c95e9.m3u8
+http://mains.services/live/1129267516/7954244520/47f28df9-64a7-4494-879a-a72c22354118.m3u8
 
 #EXTINF:-1 tvg-id="RacingTV.uk" tvg-name="Racing Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/racing-tv-uk.png" group-title="SPORTS" ,Racing Tv
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1021,6 +1011,9 @@ http://mains.services/live/1129267516/7954244520/6344f430-a079-4e08-a846-61f6a04
 
 #EXTINF:-1 tvg-id="tvg-id-channel656" tvg-name="24/7: SpongeBob SquarePants" tvg-logo="http://onlytimewilltell.xyz:2086/images/d8d2b456e542e8997238b080cf274ed2.jpg" group-title="24/7 Channels",24/7: SpongeBob SquarePants
 http://mains.services/live/1129267516/7954244520/899d7985-81cc-410c-b8ce-e68f6fb623fd.m3u8
+
+#EXTINF:-1 tvg-id="StoriesbyAMC.us" tvg-name="24/7: AMC Presents" tvg-logo="http://onlytimewilltell.xyz:2086/images/3654b34017508a963ccce2426e91e4cd.png" group-title="24/7",AMC Presents
+http://mains.services/live/1129267516/7954244520/a181fa91-1761-4086-934f-259b62acfcbc.m3u8
 
 #EXTINF:-1 tvg-id="tvg-id-channel771" tvg-name="24/7: The Grand Tour" tvg-logo="http://onlytimewilltell.xyz:2086/images/05509814776cd9a11fa85acfbb1e27e6.jpg" group-title="24/7 Channels",24/7: The Grand Tour
 http://mains.services/live/1129267516/7954244520/f5826bc5-2486-4091-a5d1-fb833d01cfd3.m3u8
