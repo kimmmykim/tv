@@ -1012,7 +1012,7 @@ http://mains.services/live/1129267516/7954244520/6344f430-a079-4e08-a846-61f6a04
 #EXTINF:-1 tvg-id="tvg-id-channel656" tvg-name="24/7: SpongeBob SquarePants" tvg-logo="http://onlytimewilltell.xyz:2086/images/d8d2b456e542e8997238b080cf274ed2.jpg" group-title="24/7 Channels",24/7: SpongeBob SquarePants
 http://mains.services/live/1129267516/7954244520/899d7985-81cc-410c-b8ce-e68f6fb623fd.m3u8
 
-#EXTINF:-1 tvg-id="StoriesbyAMC.us" tvg-name="24/7: AMC Presents" tvg-logo="http://onlytimewilltell.xyz:2086/images/3654b34017508a963ccce2426e91e4cd.png" group-title="24/7",AMC Presents
+#EXTINF:-1 tvg-id="StoriesbyAMC.us" tvg-name="24/7: AMC Presents" tvg-logo="http://onlytimewilltell.xyz:2086/images/3654b34017508a963ccce2426e91e4cd.png" group-title="24/7 Channels",AMC Presents
 http://mains.services/live/1129267516/7954244520/a181fa91-1761-4086-934f-259b62acfcbc.m3u8
 
 #EXTINF:-1 tvg-id="tvg-id-channel771" tvg-name="24/7: The Grand Tour" tvg-logo="http://onlytimewilltell.xyz:2086/images/05509814776cd9a11fa85acfbb1e27e6.jpg" group-title="24/7 Channels",24/7: The Grand Tour
