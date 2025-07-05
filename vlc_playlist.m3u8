@@ -500,15 +500,15 @@ http://mains.services/live/1129267516/7954244520/c44421b2-b673-4a37-a429-dd4b8cb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/95f6225a-a7ed-4c8d-b8ea-9dba945d8ff5.m3u8
 
-#EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="STARZ In Black" tvg-logo="http://onlytimewilltell.xyz:2086/images/8d0397e1e84f782de1fdf4d8995d4b80.png" group-title="USA",STARZ In Black
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-http://mains.services/live/1129267516/7954244520/d6b4cffa-5691-49cc-9824-9930bd87f553.m3u8
-
 #EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-name="STARZ Encore Suspense" tvg-logo="http://onlytimewilltell.xyz:2086/images/68a999c176ef9fd7efa2bd1ee0edd588.png" group-title="USA",STARZ Encore Suspense
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/cd7bb930-a0bc-4c95-8e2b-8d5faa8c31a1.m3u8
+
+#EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="STARZ In Black" tvg-logo="http://onlytimewilltell.xyz:2086/images/8d0397e1e84f782de1fdf4d8995d4b80.png" group-title="USA",STARZ In Black
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/d6b4cffa-5691-49cc-9824-9930bd87f553.m3u8
 
 #EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-us.png" group-title="USA" ,SYFY
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
