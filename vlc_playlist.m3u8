@@ -585,6 +585,39 @@ http://mains.services/live/1129267516/7954244520/41d59931-6e4a-4fee-94c3-4e8573b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/faabce9a-2164-4033-9be9-cad14552e7d4.m3u8
 
+#EXTINF:-1 tvg-id="DAZN1.uk" tvg-name="DAZN UK 01" tvg-logo="http://onlytimewilltell.xyz:2086/images/fdf5c79c0e7e2a1e0c898ae3f327a8bc.png" group-title="SPORTS",DAZN UK 01
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/f8f4e026-ef49-45e7-af59-e20f733608a3.m3u8
+
+#EXTINF:-1 tvg-id="DAZN2.uk" tvg-name="DAZN UK 02" tvg-logo="http://onlytimewilltell.xyz:2086/images/fdf5c79c0e7e2a1e0c898ae3f327a8bc.png" group-title="SPORTS",DAZN UK 02
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/a9f5a407-d494-4e29-b196-a1b052974a35.m3u8
+
+#EXTINF:-1 tvg-id="DAZN3.uk" tvg-name="DAZN UK 03" tvg-logo="http://onlytimewilltell.xyz:2086/images/fdf5c79c0e7e2a1e0c898ae3f327a8bc.png" group-title="SPORTS",DAZN UK 03
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/cf833fb0-d839-4d21-aebb-f34a09b8d003.m3u8
+
+#EXTINF:-1 tvg-id="DAZN4.uk" tvg-name="DAZN UK 04" tvg-logo="http://onlytimewilltell.xyz:2086/images/fdf5c79c0e7e2a1e0c898ae3f327a8bc.png" group-title="SPORTS",DAZN UK 04
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/38ababb6-d764-4b27-85a7-0506654285cf.m3u8
+
+#EXTINF:-1 tvg-id="DAZN5.uk" tvg-name="DAZN UK 05" tvg-logo="http://onlytimewilltell.xyz:2086/images/fdf5c79c0e7e2a1e0c898ae3f327a8bc.png" group-title="SPORTS",DAZN UK 05
+http://mains.services/live/1129267516/7954244520/8b240007-a515-4283-a621-5a11e9fc2b3e.m3u8
+
+#EXTINF:-1 tvg-id="DAZN6.uk" tvg-name="DAZN UK 06" tvg-logo="http://onlytimewilltell.xyz:2086/images/fdf5c79c0e7e2a1e0c898ae3f327a8bc.png" group-title="SPORTS",DAZN UK 06
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/2d6de0ac-2203-4efe-b016-b7c8bb839b90.m3u8
+
+#EXTINF:-1 tvg-id="DAZN7.uk" tvg-name="DAZN UK 07" tvg-logo="http://onlytimewilltell.xyz:2086/images/fdf5c79c0e7e2a1e0c898ae3f327a8bc.png" group-title="SPORTS",DAZN UK 07
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/7af792ce-c112-4944-b0f6-9ee84efb9d08.m3u8
+
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="SPORTS" ,ESPN
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
