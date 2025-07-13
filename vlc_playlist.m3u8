@@ -520,6 +520,11 @@ http://mains.services/live/1129267516/7954244520/987481ef-fbd8-47d5-90b4-b56f2f2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/78726d6b-e8c3-47b0-8d2d-c2bd64d00c73.m3u8
 
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="http://onlytimewilltell.xyz:2086/images/246192747747106ebe4bc069841fe7ad.png" group-title="USA",TBS
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/ecd4e57e-c1f1-405f-ab44-8576e8059671.m3u8
+
 #EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tlc-us.png" group-title="USA" ,TLC
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
