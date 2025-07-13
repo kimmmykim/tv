@@ -640,7 +640,7 @@ http://mains.services/live/1129267516/7954244520/3e89b7df-4554-42e7-bd89-8809fa9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/35a41a8a-c635-4462-b25f-e578b4b15de7.m3u8
 
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf" tvg-logo="https://pbs.twimg.com/profile_images/1605139766118420480/C5-BM_Fu_400x400.jpg" group-title="SPORTS",GB : Sky Sports Golf
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf" tvg-logo="https://pbs.twimg.com/profile_images/1605139766118420480/C5-BM_Fu_400x400.jpg" group-title="SPORTS",Sky Sports Golf
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/c4793abd-2409-4081-9886-f4b745600994.m3u8
