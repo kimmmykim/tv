@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT PREMIER LEAGUE " tvg-logo="http://51.158.145.100/picons/logos/AFRICA/supersport-premier-league-live.png" group-title="DSTV",SUPERSPORT PREMIER LEAGUE 
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT LALIGA " tvg-logo="http://51.158.145.100/picons/logos/logos/SUPERSPORTS-LALIGA.png" group-title="DSTV",SUPERSPORT LALIGA 
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311680.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT FOOTBALL " tvg-logo="http://51.158.145.100/picons/logos/AFRICA/supersport-football.png" group-title="DSTV",SUPERSPORT FOOTBALL 
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M-NET MOVIES ACTION+ AFRICA" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/M-NET-PLUS-1.png" group-title="DSTV",M-NET MOVIES ACTION+ AFRICA
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311696.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M-NET MOVIES ACTION AFRICA" tvg-logo="http://103.176.90.118/picons-dino/logos/M-NET-MOVIES-ACTION.png" group-title="DSTV",M-NET MOVIES ACTION AFRICA
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M-NET MOVIES PREMIERE AFRICA" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/M-NET-PLUS-1.png" group-title="DSTV",M-NET MOVIES PREMIERE AFRICA
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAGIC SHOWCASE" tvg-logo="http://103.176.90.118/picons-dino/logos/MAGIC-SHOWCASE.png" group-title="DSTV",MAGIC SHOWCASE
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAGIC EPIC" tvg-logo="http://103.176.90.118/picons-dino/logos/MAGIC-EPIC.png" group-title="DSTV",MAGIC EPIC
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311758.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAGIC URBAN" tvg-logo="http://103.176.90.118/picons-dino/logos/MAGIC-URBAN.png" group-title="DSTV",MAGIC URBAN
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAGIC FAMILY" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/MAGIC-FAMILY.png" group-title="DSTV",MAGIC FAMILY
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REAL TIME" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/REAL-TIME.png" group-title="DSTV",REAL TIME
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAISHA MAGIC EAST" tvg-logo="http://103.176.90.118/picons/logos/logos/MAISHA-MAGIC-EAST.png" group-title="DSTV",MAISHA MAGIC EAST
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/1115471.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAGIC BONGO" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/MAGIC-BONGO.png" group-title="DSTV",MAGIC BONGO
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAISHA MAGIC PLUS" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/MAISHA-MAGIC-PLUS.png" group-title="DSTV",MAISHA MAGIC PLUS
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311766.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ITV NETWORKS UHD" tvg-logo="https://logo.protv.cc/piconsnew/itv.png" group-title="DSTV",ITV NETWORKS UHD
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311617.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IGNITION UHD" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/IGNITION.png" group-title="DSTV",IGNITION UHD
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311618.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/HGTV-HD.png" group-title="DSTV",HGTV UHD
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311619.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BET HD" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/BET.png" group-title="DSTV",BET HD
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/807383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GAUTV UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/GAUTV.png" group-title="DSTV",GAUTV UHD
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311620.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FASHION ONE UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/fashionone.png" group-title="DSTV",FASHION ONE UHD
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311621.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E.TV EXTRA UHD" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ETV-EXTRA.png" group-title="DSTV",E.TV EXTRA UHD
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311622.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EMOVIES EXTRA UHD" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/EMOVIES-EXTRA.png" group-title="DSTV",EMOVIES EXTRA UHD
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311627.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E.TV UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/ETV.png" group-title="DSTV",E.TV UHD
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFRICA MAGIC FAMILY UHD" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/AFRICA-MAGIC-EPIC.png" group-title="DSTV",AFRICA MAGIC FAMILY UHD
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON UHD" tvg-logo="https://logo.protv.cc/piconsnew/nickelodeon.png" group-title="DSTV",NICKELODEON UHD
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REAL TIME UHD" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/REAL-TIME.png" group-title="DSTV",REAL TIME UHD
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311651.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="THE HOME CHANNEL UHD" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/THE-HOME-CHANNEL.png" group-title="DSTV",THE HOME CHANNEL UHD
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311662.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT AFRICA UHD" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/TNT-AFRICA.png" group-title="DSTV",TNT AFRICA UHD
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL CHANNEL UHD" tvg-logo="https://logo.protv.cc/piconsnew/travelchannel.png" group-title="DSTV",TRAVEL CHANNEL UHD
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV MUSIC 24 UHD" tvg-logo="https://logo.protv.cc/piconsnew/mtvmusic24.png" group-title="DSTV",MTV MUSIC 24 UHD
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311670.m3u8
+#EXTINF:-1 tvg-id="MTVBase.za" tvg-name="MTV BASE UHD" tvg-logo="https://logo.protv.cc/piconsnew/mtvbase.png" group-title="DSTV",MTV BASE UHD
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311671.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV UHD" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/MTV.png" group-title="DSTV",MTV UHD
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MINDSET UHD" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/MINDSET.png" group-title="DSTV",MINDSET UHD
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311674.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YADAH TV" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/YADAH.png" group-title="DSTV",YADAH TV
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/311690.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIA HD" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/VIA.png" group-title="DSTV",VIA HD
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/834318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AKWAABA MAGIC ABUSUA" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/AKWAABA-MAGIC-ABUSUA.png" group-title="DSTV",AKWAABA MAGIC ABUSUA
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/755224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BIG BROTHER NAIJA" tvg-logo="https://raw.githubusercontent.com/kimmmykim/tv/refs/heads/main/BBN_10.png" group-title="DSTV", BIG BROTHER NAIJA
+http://83601-flip.cdn-o2.me:80/751f37c1dd/293cd554308b/599947.m3u8
