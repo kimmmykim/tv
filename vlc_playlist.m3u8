@@ -85,16 +85,6 @@ http://mains.services/live/1129267516/7954244520/1f97d298-42f6-4dbc-b9f9-8897be2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/8d7be64e-5196-4865-878d-67d79325c3b2.m3u8
 
-#EXTINF:-1 tvg-id="MovieMax.us" tvg-name="Cinemax MovieMax" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59963_h15_ab.png" group-title="USA" ,Cinemax MovieMax
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-http://mains.services/live/1129267516/7954244520/c1f192fb-e16c-4139-88f3-ad8f21d4ce66.m3u8
-
-#EXTINF:-1 tvg-id="OuterMax.us" tvg-name="Cinemax OuterMax" tvg-logo="http://onlytimewilltell.xyz:2086/images/677b151adc5948e887a71bd7420c798a.png" group-title="USA" ,Cinemax OuterMax
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-http://mains.services/live/1129267516/7954244520/093f62bc-0d42-47cd-a5dd-2adbcc33ef52.m3u8
-
 #EXTINF:-1 tvg-id="CleoTV.us" tvg-name="Cleo TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true" group-title="USA" ,Cleo TV
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
@@ -254,11 +244,6 @@ http://mains.services/live/1129267516/7954244520/43b3b7ea-80a1-4610-a6ae-70329e6
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/7b7443ed-d764-4a7a-b3f4-b5fcb347f68e.m3u8
-
-#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png" group-title="USA" ,HBO Family
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-http://mains.services/live/1129267516/7954244520/c93d3107-f9d0-4f68-bf78-4bdd4463a767.m3u8
 
 #EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" group-title="USA" ,HBO Signature
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -589,6 +574,21 @@ http://mains.services/live/1129267516/7954244520/41d59931-6e4a-4fee-94c3-4e8573b
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/faabce9a-2164-4033-9be9-cad14552e7d4.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTS1.au" tvg-name="BEIN SPORTS 1" tvg-logo="http://onlytimewilltell.xyz:2086/images/650ce3086ae36914197a4dbf3e0c1e48.png" group-title="SPORTS",BEIN SPORTS 1
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/a1526f59-b785-4ae2-b32a-18b08f5086fd.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTS2.au" tvg-name="BEIN SPORTS 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/650ce3086ae36914197a4dbf3e0c1e48.png" group-title="SPORTS",BEIN SPORTS 2
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/4efe7c86-ae80-4367-9b00-cd640c0a6ce1.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTS3.au" tvg-name="AU BEIN SPORTS 3" tvg-logo="http://onlytimewilltell.xyz:2086/images/650ce3086ae36914197a4dbf3e0c1e48.png" group-title="SPORTS",BEIN SPORTS 3
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/b24ec9c8-c758-4e29-a477-51cbec91bc74.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="SPORTS" ,ESPN
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
