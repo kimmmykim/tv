@@ -575,21 +575,6 @@ http://mains.services/live/1129267516/7954244520/41d59931-6e4a-4fee-94c3-4e8573b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/faabce9a-2164-4033-9be9-cad14552e7d4.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTS1.au" tvg-name="BEIN SPORTS 1" tvg-logo="http://onlytimewilltell.xyz:2086/images/650ce3086ae36914197a4dbf3e0c1e48.png" group-title="SPORTS",BEIN SPORTS 1
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-http://mains.services/live/1129267516/7954244520/a1526f59-b785-4ae2-b32a-18b08f5086fd.m3u8
-
-#EXTINF:-1 tvg-id="beINSPORTS2.au" tvg-name="BEIN SPORTS 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/650ce3086ae36914197a4dbf3e0c1e48.png" group-title="SPORTS",BEIN SPORTS 2
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-http://mains.services/live/1129267516/7954244520/4efe7c86-ae80-4367-9b00-cd640c0a6ce1.m3u8
-
-#EXTINF:-1 tvg-id="beINSPORTS3.au" tvg-name="AU BEIN SPORTS 3" tvg-logo="http://onlytimewilltell.xyz:2086/images/650ce3086ae36914197a4dbf3e0c1e48.png" group-title="SPORTS",BEIN SPORTS 3
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-http://mains.services/live/1129267516/7954244520/b24ec9c8-c758-4e29-a477-51cbec91bc74.m3u8
-
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="SPORTS" ,ESPN
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
@@ -694,6 +679,56 @@ http://mains.services/live/1129267516/7954244520/f5453f84-b9c5-4541-aada-319183c
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/2d28d271-852f-4f02-b481-62b2834dc4f7.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 1" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="SPORTS",NZ SKY Sport 1
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/3a3f7ae8-8967-4580-b030-4a66fea7167b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="SPORTS",NZ SKY Sport 2
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/6048d24e-681a-41ce-b7f6-0ed78c7d5f55.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 3" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="SPORTS",NZ SKY Sport 3
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/6439eff4-b6a6-4d9b-abd0-9b4ea844439b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 4" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="SPORTS",NZ SKY Sport 4
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/03e6b7c2-32ff-4d7d-90a1-798a35905074.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 5" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="SPORTS",NZ SKY Sport 5
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/f625580c-d706-491f-907b-2baad2c4117e.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 6" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="SPORTS",NZ SKY SPORT 6
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/9f04c0ed-39d9-446a-bc2a-c24d953adcab.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 7" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="SPORTS",NZ SKY Sport 7
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/3e68d3de-5e71-41e0-9781-0cf763002a8c.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 8" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="SPORTS",NZ SKY Sport 8
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/7e851290-f8c3-4259-8ace-e45b71ed26ab.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 9" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="SPORTS",NZ SKY Sport 9
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/45531087-726e-49cc-a815-9ccbdd8cb59d.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport Select" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="SPORTS",NZ SKY Sport Select
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/703b63c9-b5fd-446e-a221-5f87f5ab48ec.m3u8
 
 #EXTINF:-1 tvg-id="BBCWorldNews(MiddleEast)(src01).uk" tvg-name="BBC News Channel HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="UK" ,BBC News Channel HD
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
