@@ -778,11 +778,6 @@ http://mains.services/live/1129267516/7954244520/12948e41-2e38-4e65-aabd-4ece7a5
 #EXTINF:-1 tvg-id="Channel5(src01).uk" tvg-name="Channel 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png" group-title="UK" ,Channel 5
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.videohls.ru/lb/premium355/index.m3u8
-
-#EXTINF:-1 tvg-id="Dave(src01).uk" tvg-name="Dave" tvg-logo="https://res.cloudinary.com/uktv/image/upload/v1390389612/nnjpehbj2a2qvyxoda0z.jpg" group-title="UK" ,Dave
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/b14b1440-461d-484f-ae02-c30679953c62.m3u8
 
 #EXTINF:-1 tvg-id="E4(src01).uk" tvg-name="E4 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/E4_Logo.png" group-title="UK" ,E4 Channel
