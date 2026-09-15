@@ -605,7 +605,7 @@ http://mains.services/live/1129267516/7954244520/889ded01-91cd-4a6f-b9f3-efec637
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/24c1ac03-05e6-49d6-b193-310c8362412e.m3u8
 
-#EXTINF:-1 tvg-id="SkySportsPlus.uk" tvg-name="SKY SPORTS PLUS" tvg-logo="https://raw.githubusercontent.com/kimmmykim/tv/refs/heads/main/Sky_Sports%2B.png" group-title="SPORTS" ,SKY SPORTS PLUS
+#EXTINF:-1 tvg-id="SkySportsPlus.uk" tvg-name="Sky Sports Plus" tvg-logo="https://raw.githubusercontent.com/kimmmykim/tv/refs/heads/main/Sky_Sports%2B.png" group-title="SPORTS" ,Sky Sports Plus
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/6d60368d-91cf-44f5-9c65-52361b973b73.m3u8
