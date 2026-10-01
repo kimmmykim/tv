@@ -575,20 +575,65 @@ http://mains.services/live/1129267516/7954244520/41d59931-6e4a-4fee-94c3-4e8573b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/faabce9a-2164-4033-9be9-cad14552e7d4.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTS1.au" tvg-name="Bein Sports 1" tvg-logo="http://onlytimewilltell.xyz:2086/images/650ce3086ae36914197a4dbf3e0c1e48.png" group-title="SPORTS",Bein Sports 1
+#EXTINF:-1 tvg-id="DAZN1.ca" tvg-name="DAZN 1" tvg-logo="http://onlytimewilltell.xyz:2086/images/fdf5c79c0e7e2a1e0c898ae3f327a8bc.png" group-title="SPORTS",DAZN 1
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-http://mains.services/live/1129267516/7954244520/a1526f59-b785-4ae2-b32a-18b08f5086fd.m3u8
+http://mains.services/live/1129267516/7954244520/d15b2b93-de44-452f-aec9-5aa706d7783f.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTS2.au" tvg-name="Bein Sports 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/650ce3086ae36914197a4dbf3e0c1e48.png" group-title="SPORTS",Bein Sports 2
+#EXTINF:-1 tvg-id="DAZN2.ca" tvg-name="DAZN 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/fdf5c79c0e7e2a1e0c898ae3f327a8bc.png" group-title="SPORTS",DAZN 2
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-http://mains.services/live/1129267516/7954244520/4efe7c86-ae80-4367-9b00-cd640c0a6ce1.m3u8
+http://mains.services/live/1129267516/7954244520/2c7cfdcc-8a46-4c58-844d-3f075fef90fb.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTS3.au" tvg-name="Bein Sports 3" tvg-logo="http://onlytimewilltell.xyz:2086/images/650ce3086ae36914197a4dbf3e0c1e48.png" group-title="SPORTS",Bein Sports 3
+#EXTINF:-1 tvg-id="DAZN3.ca" tvg-name="DAZN 3" tvg-logo="http://onlytimewilltell.xyz:2086/images/fdf5c79c0e7e2a1e0c898ae3f327a8bc.png" group-title="SPORTS",DAZN 3
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-http://mains.services/live/1129267516/7954244520/b24ec9c8-c758-4e29-a477-51cbec91bc74.m3u8
+http://mains.services/live/1129267516/7954244520/a6dd492a-1974-4241-b8d0-2e8ad5964254.m3u8
+
+#EXTINF:-1 tvg-id="DAZN4.ca" tvg-name="DAZN 4" tvg-logo="http://onlytimewilltell.xyz:2086/images/fdf5c79c0e7e2a1e0c898ae3f327a8bc.png" group-title="SPORTS",DAZN 4
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/691dd1c8-bf71-4e1f-be23-5b57ba043613.m3u8
+
+#EXTINF:-1 tvg-id="DAZN5.ca" tvg-name="DAZN 5" tvg-logo="http://onlytimewilltell.xyz:2086/images/fdf5c79c0e7e2a1e0c898ae3f327a8bc.png" group-title="SPORTS",DAZN 5
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/efacc5b8-4adf-410a-9525-2f7944aaa8cb.m3u8
+
+#EXTINF:-1 tvg-id="DAZN6.ca" tvg-name="DAZN 6" tvg-logo="http://onlytimewilltell.xyz:2086/images/fdf5c79c0e7e2a1e0c898ae3f327a8bc.png" group-title="SPORTS",DAZN 6
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/c1009f58-426f-412d-bc75-82944bf944a3.m3u8
+
+#EXTINF:-1 tvg-id="DAZN7.ca" tvg-name="DAZN 7" tvg-logo="http://onlytimewilltell.xyz:2086/images/fdf5c79c0e7e2a1e0c898ae3f327a8bc.png" group-title="SPORTS",DAZN 7
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/e945bf9a-5152-4672-9e28-6991f9f83047.m3u8
+
+#EXTINF:-1 tvg-id="DAZN8.ca" tvg-name="DAZN 8" tvg-logo="http://onlytimewilltell.xyz:2086/images/fdf5c79c0e7e2a1e0c898ae3f327a8bc.png" group-title="SPORTS",DAZN 8
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/c14d4c1a-9aec-4542-af34-723e96f69de0.m3u8
+
+#EXTINF:-1 tvg-id="DAZN9.ca" tvg-name="DAZN 9" tvg-logo="http://onlytimewilltell.xyz:2086/images/fdf5c79c0e7e2a1e0c898ae3f327a8bc.png" group-title="SPORTS",DAZN 9
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/38bd1b12-c071-4b96-95f7-378531d2fe6d.m3u8
+
+#EXTINF:-1 tvg-id="DAZN10.ca" tvg-name="DAZN 10" tvg-logo="http://onlytimewilltell.xyz:2086/images/fdf5c79c0e7e2a1e0c898ae3f327a8bc.png" group-title="SPORTS",DAZN 10
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/96853447-a453-493b-9422-e4c167605b1f.m3u8
+
+#EXTINF:-1 tvg-id="DAZN11.ca" tvg-name="DAZN 11" tvg-logo="http://onlytimewilltell.xyz:2086/images/fdf5c79c0e7e2a1e0c898ae3f327a8bc.png" group-title="SPORTS",DAZN 11
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/8b2ba4b5-ed74-4e11-b067-d3528fe58652.m3u8
+
+#EXTINF:-1 tvg-id="DAZN12.ca" tvg-name="DAZN 12" tvg-logo="http://onlytimewilltell.xyz:2086/images/fdf5c79c0e7e2a1e0c898ae3f327a8bc.png" group-title="SPORTS",DAZN 12
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+http://mains.services/live/1129267516/7954244520/b79f3f4d-4dc6-4924-8018-44996d9c9ff4.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="SPORTS" ,ESPN
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -599,26 +644,6 @@ http://mains.services/live/1129267516/7954244520/b8b35772-e4f6-47d1-93a2-651c6eb
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 http://mains.services/live/1129267516/7954244520/cabb4432-edb8-4e51-9280-75bd64b9c4b0.m3u8
-
-#EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="FOX Soccer Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/300px-Fox_Soccer_Plus_logo.svg.png" group-title="SPORTS",FOX Soccer Plus
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-http://mains.services/live/1129267516/7954244520/93a91ced-a6dd-4367-86f8-60ccb8b5a82f.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="http://onlytimewilltell.xyz:2086/images/4f3da988474c17e1d831e99165fb85f6.png" group-title="SPORTS",FOX Sports 1
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-http://mains.services/live/1129267516/7954244520/e0e766c2-49a7-4ad4-8934-e35beb4fa6f9.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/505f347dd85fc2b612c01bfcbb7d83fb.png" group-title="SPORTS",Fox Sports 2
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-http://mains.services/live/1129267516/7954244520/4c538364-3af9-46bb-b778-e287295d39ee.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports506(src04).au" tvg-name="Fox Sports 506" tvg-logo="https://raw.githubusercontent.com/kimmmykim/tv/refs/heads/main/FoxSports506_HD.png" group-title="SPORTS",FOX Sports 506
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-http://mains.services/live/1129267516/7954244520/889ded01-91cd-4a6f-b9f3-efec637c95e9.m3u8
 
 #EXTINF:-1 tvg-id="RacingTV.uk" tvg-name="Racing Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/racing-tv-uk.png" group-title="SPORTS" ,Racing Tv
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
